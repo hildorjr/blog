@@ -39,7 +39,7 @@ There will be a time when the team will notice that when coding a brand new page
 
 I'm currently on a project that is already benefitting from this approach and there were multiple cases in which the development work for building a new page was as easy as importing components, instantiating them in the right order, getting the page data from a CMS API and passing the data to each component. No styling work needed.
 
-This solution speeds up the development time exponentially and the following chart exemplifies approximately how the development speed grows with the projects aging.
+This solution speeds up the development time exponentially and the following chart exemplifies approximately how the development speed should grow as the project ages. This curve should happen because each new page will probably contain components that were already previously developed.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697333742903/025274ed-be4a-448c-b949-e93e46bf8c27.png align="center")
 
